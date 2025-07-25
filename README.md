@@ -87,3 +87,15 @@ Ele desenvolveu o BioBit para tornar a ciência mais acessível, ética e humana
 
 **PIX (Brasil):** santander27@gmail.com  
 **PayPal:** Diegocodigobits@gmail.com
+
+## 🧬 Registro de Autoria – BioBit
+
+**Arquivo:** `BioBit.py`  
+**Hash SHA256:** `64DF0A8D1221F30D3C2A73E44D9923FD54E238DAD0DDBD6C62AE3C54E6C14DAF`  
+**Autor:** Diego Fernando Cruz  
+**Data:** 25/07/2025  
+**Projeto dedicado a:** Victor Katchor Cruz  
+**Descrição:** Motor biomédico inteligente que lê sequências de DNA (.fasta), gera assinaturas binárias únicas e utiliza LLM local para diagnósticos explicáveis em português e inglês.
+
+> Esta assinatura digital serve como prova pública de autoria e originalidade, válida em disputas jurídicas e científicas.
+
